@@ -25,7 +25,7 @@ function Navbar() {
 function Hero() {
   return (
     <header className="hero">
-      <h1>Hi, I'm Your Name</h1>
+      <h1>Hi, I'm Shivank Dixit</h1>
       <p>MCA student at GLA University, Mathura | Web Developer</p>
     </header>
   );
@@ -106,7 +106,7 @@ export default function App() {
       <Skills />
       <Projects />
       <Contact />
-      <footer>© 2026 Your Name</footer>
+      <footer>© 2026 Shivank Dixit </footer>
     </>
   );
 }
